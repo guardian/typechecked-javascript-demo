@@ -21,3 +21,7 @@ The package configuration file. It contains the necessary dependencies.
 
 #### [`tsconfig.json`](./tsconfig.json)
 The TypeScript configuration file. This is where we configure the TypeScript compiler to typecheck JavaScript files.
+
+---
+
+_This repo is archived to keep it from triggering dependabot security checks etc. It's only a demo and should be fine like this. If you want to make changes and can't unarchive it yourself, ping https://github.com/orgs/guardian/teams/client-side-infra._
