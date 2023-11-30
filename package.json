@@ -1,0 +1,17 @@
+{
+	"name": "typecheck-javascript-demo",
+	"version": "1.0.0",
+	"private": "true",
+	"description": "A barebones demonstration of using the TypeScript compiler to typecheck JavaScript.",
+	"type": "module",
+	"scripts": {
+		"start": "node src/index.js",
+		"tsc": "tsc"
+	},
+	"prettier": "@guardian/prettier",
+	"devDependencies": {
+		"@guardian/tsconfig": "0.2.0",
+		"@types/node": "20.10.1",
+		"typescript": "5.1.3"
+	}
+}
