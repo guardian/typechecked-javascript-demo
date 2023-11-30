@@ -7,7 +7,7 @@
 #### [`src/index.js`](./src/index.js)
 An example JavaScript source file that gets typechecked.
 
-It contains a type error, which is reported by the TypeScript compiler.
+It contains a type error, which is [reported by the TypeScript compiler](https://github.com/guardian/typechecked-javascript-demo/actions/runs/7046933698/job/19179718998#step:5:9).
 
 > [!NOTE]
 > It is still valid JavaScript, and runs without error.
